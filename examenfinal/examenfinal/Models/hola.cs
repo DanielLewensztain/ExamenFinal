@@ -12,7 +12,7 @@ namespace examenfinal.Models
     {
 
         [Key]
-        public int num { get; set; }
+        public int numero { get; set; }
 
 
     }

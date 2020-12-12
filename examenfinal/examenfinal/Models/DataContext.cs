@@ -13,6 +13,6 @@ namespace examenfinal.Models
 
         }
 
-        
+        public System.Data.Entity.DbSet<examenfinal.Models.hola> holas { get; set; }
     }
 }
